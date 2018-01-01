@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-- [100 行代码实现的JavaScript MVC样式框架](JavaScript/100 行代码实现的JavaScript MVC样式框架.md)
+- [100 行代码实现的JavaScript MVC样式框架](JavaScript/JavaScript/100%20行代码实现的JavaScript%20MVC样式框架.md)
 - [19个JavaScript常用的简写技术](JavaScript/19个JavaScript常用的简写技术.md)
 19个JavaScript常用的简写技术
 30分钟，让你彻底明白Promise原理
